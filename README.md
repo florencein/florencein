@@ -1,10 +1,10 @@
-### Hi there 👋,I'm zhe.
+### Hi there 👋,I'm flor.
 
 - 🔭 I’m currently working on something cool.
 - 🌱 I’m currently learning Everything I like.
 - 💬 Ask me about anything related to Java/Python.
 - 📫 How to reach me: 1508939840@qq.com
-- 😄 Read more about my CSDN: [here](https://blog.csdn.net/qq_1508939840?spm=1000.2115.3001.5343](https://blog.csdn.net/ayaoshisan?type=blog)
+- 😄 Read more about my CSDN: [here](https://blog.csdn.net/ayaoshisan?type=blog)
 
 ![](https://github-readme-stats.vercel.app/api?username=florencein&show_icons=true&theme=transparent)
 
